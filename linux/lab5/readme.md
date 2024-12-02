@@ -1,4 +1,4 @@
-# Disk Management and Logical Volume Setup
+#lab5: Disk Management and Logical Volume Setup
 
 This guide provides step-by-step instructions for attaching and managing a 20GB disk in a Linux virtual machine, partitioning it, and configuring its sections as specified.
 
